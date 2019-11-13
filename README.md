@@ -12,4 +12,4 @@ Change directories to this folder:
 
     cd StructureFunctionMapping
 
-Run demo.m to get started.
+Run demo.m to get started. 
